@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
 | [2784-check-if-array-is-good](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/2784-check-if-array-is-good) |
+## Math
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
