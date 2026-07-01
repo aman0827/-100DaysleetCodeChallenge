@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
