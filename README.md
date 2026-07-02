@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
 | [2784-check-if-array-is-good](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/2784-check-if-array-is-good) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0125-valid-palindrome) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
