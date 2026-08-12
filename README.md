@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
 | [2784-check-if-array-is-good](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
