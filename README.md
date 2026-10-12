@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1250-check-if-it-is-a-good-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/2235-add-two-integers) |
 ## Number Theory
 |  |
