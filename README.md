@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0550-game-play-analysis-iv) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Binary Search
 |  |
 | ------- |
