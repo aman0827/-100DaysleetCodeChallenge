@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0015-3sum) |
 | [2784-check-if-array-is-good](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/aman0827/-100DaysleetCodeChallenge/tree/master/0125-valid-palindrome) |
 ## String
